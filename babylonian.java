@@ -1,5 +1,5 @@
 import java.util.*;
-public class submission1 {
+public class babylonian {
 	public static void main(String[] args){
 		Scanner s = new Scanner(System.in);
 		float n = s.nextFloat();
